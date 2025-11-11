@@ -1,2 +1,12 @@
-# sales_revenue_optimization
-Data Science project on Sales &amp; Revenue Optimization using the Superstore dataset. Includes EDA, RFM segmentation, and dashboards.
+# Sales & Revenue Optimization (Superstore Dataset)
+
+This project applies Data Science techniques to analyze and optimize sales and revenue using the Superstore dataset.
+
+## Features
+- Exploratory Data Analysis
+- Customer Segmentation (RFM)
+- Interactive Dashboards (Plotly)
+- Business Insights & Recommendations
+
+## Tools Used
+Python | Pandas | Matplotlib | Seaborn | Plotly | Jupyter
